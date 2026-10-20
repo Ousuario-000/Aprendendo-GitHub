@@ -1,1 +1,3 @@
-print('Ola mundinho')
+mensagem = "Versão original"
+
+print(mensagem)
